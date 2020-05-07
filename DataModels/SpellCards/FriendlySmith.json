@@ -1,0 +1,12 @@
+{
+  "spell": {
+    "class": "weapongain",
+    "value": 1
+  },
+  "manacost": 1,
+  "heroclass": "Rogue",
+  "name": "Friendly Smith",
+  "description": "add a weapon to your deck with +2/+2",
+  "type": "Spell",
+  "rarity": "common"
+}

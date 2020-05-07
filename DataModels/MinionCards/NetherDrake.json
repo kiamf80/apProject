@@ -1,0 +1,9 @@
+{
+  "manacost": 6,
+  "heroclass": "WarLock",
+  "name": "Nether Drake",
+  "health": 6,
+  "attack": 6,
+  "type": "minion",
+  "rarity": "Common"
+}

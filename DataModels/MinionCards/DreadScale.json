@@ -1,0 +1,10 @@
+{
+  "manacost": 3,
+  "attack": 4,
+  "health": 2,
+  "heroclass": "Warlock",
+  "name": "DreadScale",
+  "description": "At the end of your turn, deal one damage to all minions.",
+  "type": "Minion",
+  "rarity": "common"
+}

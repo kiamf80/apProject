@@ -1,0 +1,25 @@
+{
+  "health": 30,
+  "Special Power": "spell cards cost 2 mana less.",
+  "deck": [
+    0,
+    3,
+    3,
+    4,
+    5,
+    10,
+    11,
+    12,
+    13,
+    15
+  ],
+  "name": "Mage",
+  "HeroPower": {
+    "class": "damage",
+    "value": 1,
+    "cost": [
+      "mana",
+      3
+    ]
+  }
+}

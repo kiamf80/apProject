@@ -1,0 +1,25 @@
+{
+  "Special Power": "pays 2 mana less for cards from mage and warlock",
+  "deck": [
+    15,
+    11,
+    13,
+    16,
+    2,
+    6,
+    7,
+    8,
+    9,
+    11
+  ],
+  "health": 30,
+  "name": "Rogue",
+  "HeroPower": {
+    "class": "theft",
+    "value": 1,
+    "cost": [
+      "mana",
+      3
+    ]
+  }
+}

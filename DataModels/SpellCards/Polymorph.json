@@ -1,0 +1,12 @@
+{
+  "spell": {
+    "class": "miniontransformspell",
+    "value": 1
+  },
+  "manacost": 4,
+  "heroclass": "Mage",
+  "name": "Polymorph",
+  "description": "transform a minion into a 1/1",
+  "type": "Spell",
+  "rarity": "common"
+}
